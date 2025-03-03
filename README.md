@@ -1,3 +1,3 @@
 # SCRAPING MODEL
 
-Exemplos de situações onde pode ser vantajoso ter um programa de Python para obter informações de planilhas ou arquivos .pdf a fim de consolidar os dados em alguma configuração específica em uma planilha final. A explicação desse projeto está nesses vídeos: https://youtu.be/xaTbLVyRNHg e https://youtu.be/Z8oU_VHnung 
+Examples of situations where it might be advantageous to have a Python program to extract information from spreadsheets or .pdf files in order to consolidate the data into a specific configuration in a final spreadsheet. I created this code as an easy-to-understand example to publish on YouTube, aiming to demonstrate how such a program can simplify and automate the process of handling and organizing data from different sources. The explanation of this project can be found in these videos (PT-BR): https://youtu.be/xaTbLVyRNHg e https://youtu.be/Z8oU_VHnung 
